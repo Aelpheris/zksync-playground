@@ -3,7 +3,7 @@ import { getWallet } from "./utils";
 import { ethers } from "ethers";
 
 // Address of the contract to interact with
-const CONTRACT_ADDRESS = "";
+const CONTRACT_ADDRESS = "0x8e6594f6dcC8a9f3B0E846ca7A174c8DaFEA8a66";
 if (!CONTRACT_ADDRESS) throw "⛔️ Provide address of the contract to interact with!";
 
 // An example of a script to interact with the contract
